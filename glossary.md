@@ -9,6 +9,8 @@ Terms and abbreviations that come up around C2SM.
 >
 > Keep the list in alphabetical order.
 
+**AA** — A-level Apple.
+
 **C2SM** — Center for Climate Systems Modeling, a competence centre at ETH Zurich.
 
 **CESM** — Community Earth System Model, a fully coupled Earth system model developed at NCAR.
